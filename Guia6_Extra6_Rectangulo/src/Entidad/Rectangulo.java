@@ -48,7 +48,7 @@ public class Rectangulo {
         double area;
         
         area= lado1*lado2;
-        System.out.println("El area del Rectangulo es: "+ area+ "cm2");
+        System.out.println("El area del Rectangulo es: "+ area+ " cm2");
         
     }
 }
